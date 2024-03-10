@@ -29,6 +29,7 @@ int main() {
     // Programa de exemplo - uma simples adição
     memory[0] = 1;  // Carregar valor para AC
     memory[1] = 10; // Operando para adição
+    memory[2] = 2;  // Somar com o valor no AC
     memory[3] = 10; // Operando para adição
     memory[4] = 0;  // Parar
 
