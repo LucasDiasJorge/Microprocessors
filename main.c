@@ -48,7 +48,7 @@ int main() {
                 AC = operand;
                 break;
             case 2: // Somar com o valor no AC
-            printf("%d\n",operand);
+                printf("%d\n",operand);
                 add(operand);
                 break;
             default:
